@@ -131,7 +131,7 @@ const Appointments = () => {
           }
         </div>
 
-        <button className='bg-primary text-white text-sm font-light px-14 py-3 rounded-full my-6'>Book an appointment</button>
+        <button className='bg-primary text-white text-sm font-light px-14 py-3 rounded-full my-6 cursor-pointer hover:scale-105 transition-all duration-300'>Book an appointment</button>
       </div>
 
       <RelatedDoctors docId={docId} speciality={docInfo.speciality}/>
