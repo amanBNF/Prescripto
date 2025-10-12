@@ -21,7 +21,7 @@ const About = () => {
       </div>
 
       <div className='text-xl my-4'>
-        <p>WHY <span className='text-gray-700 font-semibold'>CHOOSE US</span></p>
+        <p>WHY <span className='text-gray-700 font-semibold'>CHOOSE US !</span></p>
       </div>
 
       <div className='flex flex-col md:flex-row mb-20'>
